@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\r\n\ PROGRAMMER\ \#1\r\n\ NAME\ \:\ MUHAMMAD\ AIMAN\ SYAZWAN\ BIN\ MOHD\ ZALIZAMAN\r\n\ STUDENT\ ID\ \:\ 2020870684\r\n\ GROUP\ \:\ CS1102F\r\n\ PHONE\ NUMBER\ \:\ 0196081247\r\n\ \r\n\ PROGRAMMER\ \#2\r\n\ NAME\ \:\ NORSHAZLIANA\ BINTI\ ABDUL\ MOHEE\r\n\ STUDENT\ ID\ \:\ 2020607144\r\n\ GROUP\ \:\ CS1102F\r\n\ PHONE\ NUMBER\ \:\ 01114828100\r\n\ \r\n\ PROGRAMMER\ \#3\r\n\ NAME\ \:\ MUHAMMAD\ SYAZRIEN\ BIN\ SARI\r\n\ STUDENT\ ID\ \:\ 2020478078\r\n\ GROUP\ \:\ CS1102F\r\n\ PHONE\ NUMBER\ \:\ 0165284782\r\n\ \r\n\ PROGRAMMER\ \#4\r\n\ NAME\ \:\ NURUL\ ANIS\ ATHIRAH\ BINTI\ ZULKIFLY\r\n\ STUDENT\ ID\ \:\ 2020848168\r\n\ GROUP\ \:\ CS1102F\r\n\ PHONE\ NUMBER\ \:\ 0134808782\r\n
+comment1.params=
+comment1.target=Event()
+comment1.text=default\ constructor
+comment2.params=eventName\ venue\ eventDate
+comment2.target=Event(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=normal\ constructor
+comment3.params=eventName\ venue\ eventDate
+comment3.target=void\ setEvent(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=setter\ method
+comment4.params=
+comment4.target=java.lang.String\ getEventName()
+comment4.text=getter\ method
+comment5.params=
+comment5.target=java.lang.String\ getVenue()
+comment6.params=
+comment6.target=java.lang.String\ getEventDate()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=display\ method
+numComments=8
